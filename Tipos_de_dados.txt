@@ -1,0 +1,15 @@
+TIPOS DE DADOS
+
+int para dados do tipo inteiro;
+
+float para dados do tipo decimal, com ponto flutuante (vírgula);
+
+char para dados do tipo texto, deve ser colocado entre aspas simples;
+
+EXEMPLOS DE USO
+
+int idade = 25;
+
+float peso = 58.5;
+
+char sexo = 'F';

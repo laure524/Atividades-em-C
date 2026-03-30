@@ -1,0 +1,12 @@
+FUNÇÃO scanf():
+
+A função scanf() tem como objetivo ler os dados que serão inseridos.
+
+EXEMPLO:
+
+int idade;
+printf("Digite sua idade: %d", idade);
+scanf("%d", &idade); 
+
+EXPLICANDO:
+O operador "&" é obrigatoriamente utilizado para acessar o endereço de memória para os tipos de dados int, float e char.
