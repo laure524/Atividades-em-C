@@ -5,17 +5,18 @@
 
 int main() 
 {
-    int numero;
+    int numero = 120;
 
     printf("Digite um numero:\n");
-    scanf(" %d", &numero);
 
-    if(numero >119 || numero <= 46)
+    if(numero > 119 || numero <= 46) {
         printf("O codigo esta correto\n");
+    }        
 
-    else{
+    else
+    {
     numero = numero +1;
-        printf("O codigo esta incorreto\n");
+        printf("O codigo esta incorreto, codigo novo = %d", codigo);
     
     }
     return 0;
