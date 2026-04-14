@@ -12,7 +12,7 @@ int main(){
     }
     else
     {
-        printf("REPROVADO\N")
+        printf("REPROVADO\n");
     }
     printf("Fim\n");
 
